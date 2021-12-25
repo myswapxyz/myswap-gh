@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cd968ba.chunk.css",
-    "main.js": "/static/js/main.fc03e67f.chunk.js",
-    "main.js.map": "/static/js/main.fc03e67f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3dc0f140.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3dc0f140.js.map",
-    "static/js/2.c6be36d7.chunk.js": "/static/js/2.c6be36d7.chunk.js",
-    "static/js/2.c6be36d7.chunk.js.map": "/static/js/2.c6be36d7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6cd968ba.chunk.css.map": "/static/css/main.6cd968ba.chunk.css.map",
-    "static/js/2.c6be36d7.chunk.js.LICENSE.txt": "/static/js/2.c6be36d7.chunk.js.LICENSE.txt"
+    "main.css": "/myswap-gh/static/css/main.6cd968ba.chunk.css",
+    "main.js": "/myswap-gh/static/js/main.fc03e67f.chunk.js",
+    "main.js.map": "/myswap-gh/static/js/main.fc03e67f.chunk.js.map",
+    "runtime-main.js": "/myswap-gh/static/js/runtime-main.d9ec6f65.js",
+    "runtime-main.js.map": "/myswap-gh/static/js/runtime-main.d9ec6f65.js.map",
+    "static/js/2.8eef4569.chunk.js": "/myswap-gh/static/js/2.8eef4569.chunk.js",
+    "static/js/2.8eef4569.chunk.js.map": "/myswap-gh/static/js/2.8eef4569.chunk.js.map",
+    "index.html": "/myswap-gh/index.html",
+    "static/css/main.6cd968ba.chunk.css.map": "/myswap-gh/static/css/main.6cd968ba.chunk.css.map",
+    "static/js/2.8eef4569.chunk.js.LICENSE.txt": "/myswap-gh/static/js/2.8eef4569.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3dc0f140.js",
-    "static/js/2.c6be36d7.chunk.js",
+    "static/js/runtime-main.d9ec6f65.js",
+    "static/js/2.8eef4569.chunk.js",
     "static/css/main.6cd968ba.chunk.css",
     "static/js/main.fc03e67f.chunk.js"
   ]
