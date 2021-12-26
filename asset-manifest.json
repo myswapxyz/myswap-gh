@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/myswap-gh/static/css/main.6cd968ba.chunk.css",
-    "main.js": "/myswap-gh/static/js/main.fc03e67f.chunk.js",
-    "main.js.map": "/myswap-gh/static/js/main.fc03e67f.chunk.js.map",
+    "main.js": "/myswap-gh/static/js/main.698dda4a.chunk.js",
+    "main.js.map": "/myswap-gh/static/js/main.698dda4a.chunk.js.map",
     "runtime-main.js": "/myswap-gh/static/js/runtime-main.d9ec6f65.js",
     "runtime-main.js.map": "/myswap-gh/static/js/runtime-main.d9ec6f65.js.map",
-    "static/js/2.8eef4569.chunk.js": "/myswap-gh/static/js/2.8eef4569.chunk.js",
-    "static/js/2.8eef4569.chunk.js.map": "/myswap-gh/static/js/2.8eef4569.chunk.js.map",
+    "static/js/2.9607613d.chunk.js": "/myswap-gh/static/js/2.9607613d.chunk.js",
+    "static/js/2.9607613d.chunk.js.map": "/myswap-gh/static/js/2.9607613d.chunk.js.map",
     "index.html": "/myswap-gh/index.html",
     "static/css/main.6cd968ba.chunk.css.map": "/myswap-gh/static/css/main.6cd968ba.chunk.css.map",
-    "static/js/2.8eef4569.chunk.js.LICENSE.txt": "/myswap-gh/static/js/2.8eef4569.chunk.js.LICENSE.txt"
+    "static/js/2.9607613d.chunk.js.LICENSE.txt": "/myswap-gh/static/js/2.9607613d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d9ec6f65.js",
-    "static/js/2.8eef4569.chunk.js",
+    "static/js/2.9607613d.chunk.js",
     "static/css/main.6cd968ba.chunk.css",
-    "static/js/main.fc03e67f.chunk.js"
+    "static/js/main.698dda4a.chunk.js"
   ]
 }
