@@ -1,20 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.9ce62a69.chunk.css",
-    "main.js": "/static/js/main.37634df7.chunk.js",
+    "main.js": "/static/js/main.4cc4a9fd.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3dc0f140.js",
-    "static/js/2.ffc22e4a.chunk.js": "/static/js/2.ffc22e4a.chunk.js",
+    "static/js/2.d3ae9ba0.chunk.js": "/static/js/2.d3ae9ba0.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.ffc22e4a.chunk.js.LICENSE.txt": "/static/js/2.ffc22e4a.chunk.js.LICENSE.txt",
-    "static/media/2021 Twitter logo - white.27cda7bd.png": "/static/media/2021 Twitter logo - white.27cda7bd.png",
+    "static/js/2.d3ae9ba0.chunk.js.LICENSE.txt": "/static/js/2.d3ae9ba0.chunk.js.LICENSE.txt",
     "static/media/ArgentX-button-download.6da5f49c.svg": "/static/media/ArgentX-button-download.6da5f49c.svg",
     "static/media/StarkNet Icon.90b145c2.png": "/static/media/StarkNet Icon.90b145c2.png",
     "static/media/bg2.f3c2405f.png": "/static/media/bg2.f3c2405f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3dc0f140.js",
-    "static/js/2.ffc22e4a.chunk.js",
+    "static/js/2.d3ae9ba0.chunk.js",
     "static/css/main.9ce62a69.chunk.css",
-    "static/js/main.37634df7.chunk.js"
+    "static/js/main.4cc4a9fd.chunk.js"
   ]
 }
