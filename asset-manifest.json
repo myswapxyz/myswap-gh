@@ -1,19 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.b608630c.chunk.css",
-    "main.js": "/static/js/main.65d51ae1.chunk.js",
+    "main.js": "/static/js/main.ea661650.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3dc0f140.js",
-    "static/js/2.309519a2.chunk.js": "/static/js/2.309519a2.chunk.js",
+    "static/js/2.7dbdc48c.chunk.js": "/static/js/2.7dbdc48c.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.309519a2.chunk.js.LICENSE.txt": "/static/js/2.309519a2.chunk.js.LICENSE.txt",
-    "static/media/ArgentX-button-download.6da5f49c.svg": "/static/media/ArgentX-button-download.6da5f49c.svg",
+    "static/js/2.7dbdc48c.chunk.js.LICENSE.txt": "/static/js/2.7dbdc48c.chunk.js.LICENSE.txt",
     "static/media/StarkNet Icon.90b145c2.png": "/static/media/StarkNet Icon.90b145c2.png",
     "static/media/bg2.f3c2405f.png": "/static/media/bg2.f3c2405f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3dc0f140.js",
-    "static/js/2.309519a2.chunk.js",
+    "static/js/2.7dbdc48c.chunk.js",
     "static/css/main.b608630c.chunk.css",
-    "static/js/main.65d51ae1.chunk.js"
+    "static/js/main.ea661650.chunk.js"
   ]
 }
