@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.b608630c.chunk.css",
-    "main.js": "/static/js/main.fd4a202c.chunk.js",
+    "main.js": "/static/js/main.61eb8882.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.3dc0f140.js",
-    "static/js/2.61961474.chunk.js": "/static/js/2.61961474.chunk.js",
+    "static/js/2.87c6c42a.chunk.js": "/static/js/2.87c6c42a.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.61961474.chunk.js.LICENSE.txt": "/static/js/2.61961474.chunk.js.LICENSE.txt",
+    "static/js/2.87c6c42a.chunk.js.LICENSE.txt": "/static/js/2.87c6c42a.chunk.js.LICENSE.txt",
     "static/media/StarkNet Icon.90b145c2.png": "/static/media/StarkNet Icon.90b145c2.png",
     "static/media/bg2.f3c2405f.png": "/static/media/bg2.f3c2405f.png",
     "static/media/mySwap_logo_mobile.a04d74e6.svg": "/static/media/mySwap_logo_mobile.a04d74e6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3dc0f140.js",
-    "static/js/2.61961474.chunk.js",
+    "static/js/2.87c6c42a.chunk.js",
     "static/css/main.b608630c.chunk.css",
-    "static/js/main.fd4a202c.chunk.js"
+    "static/js/main.61eb8882.chunk.js"
   ]
 }
