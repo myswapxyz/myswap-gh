@@ -1,19 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.b608630c.chunk.css",
-    "main.js": "/static/js/main.0f1343a1.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.3dc0f140.js",
-    "static/js/2.1367d05f.chunk.js": "/static/js/2.1367d05f.chunk.js",
+    "main.css": "/static/css/main.c8831bd0.css",
+    "main.js": "/static/js/main.c5698a6d.js",
+    "static/media/bg2.png": "/static/media/bg2.f3c2405fdcd0667411a4.png",
+    "static/media/StarkNet Icon.png": "/static/media/StarkNet Icon.90b145c2627ea5977036.png",
     "index.html": "/index.html",
-    "static/js/2.1367d05f.chunk.js.LICENSE.txt": "/static/js/2.1367d05f.chunk.js.LICENSE.txt",
-    "static/media/StarkNet Icon.90b145c2.png": "/static/media/StarkNet Icon.90b145c2.png",
-    "static/media/bg2.f3c2405f.png": "/static/media/bg2.f3c2405f.png",
-    "static/media/mySwap_logo_mobile.a04d74e6.svg": "/static/media/mySwap_logo_mobile.a04d74e6.svg"
+    "static/media/mySwap_logo_mobile.svg": "/static/media/mySwap_logo_mobile.a04d74e6c1f7c04d48375d540f532342.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3dc0f140.js",
-    "static/js/2.1367d05f.chunk.js",
-    "static/css/main.b608630c.chunk.css",
-    "static/js/main.0f1343a1.chunk.js"
+    "static/css/main.c8831bd0.css",
+    "static/js/main.c5698a6d.js"
   ]
 }
