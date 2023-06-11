@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c8831bd0.css",
-    "main.js": "/static/js/main.c5698a6d.js",
+    "main.js": "/static/js/main.da38e86f.js",
     "static/media/bg2.png": "/static/media/bg2.f3c2405fdcd0667411a4.png",
     "static/media/StarkNet Icon.png": "/static/media/StarkNet Icon.90b145c2627ea5977036.png",
     "index.html": "/index.html",
@@ -9,6 +9,6 @@
   },
   "entrypoints": [
     "static/css/main.c8831bd0.css",
-    "static/js/main.c5698a6d.js"
+    "static/js/main.da38e86f.js"
   ]
 }
