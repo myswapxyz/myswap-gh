@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.dce2c9b3.css",
-    "main.js": "/static/js/main.e5865d8a.js",
+    "main.css": "/static/css/main.484363a4.css",
+    "main.js": "/static/js/main.657f31de.js",
     "static/media/bg-mobile-new.png": "/static/media/bg-mobile-new.8ef69a86aa9f0c12a1aa.png",
     "static/media/bg_dark.png": "/static/media/bg_dark.f921cfc091440b863954.png",
-    "static/media/bg2.png": "/static/media/bg2.f3c2405fdcd0667411a4.png",
     "static/media/promotionPopup.svg": "/static/media/promotionPopup.91a263b9f5ab2ae952338bf1cbc24b83.svg",
-    "static/media/StarkNet Icon.png": "/static/media/StarkNet Icon.90b145c2627ea5977036.png",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.1408a4ec318968f9ac5f26fda5326e93.svg",
     "static/media/analytics_text.svg": "/static/media/analytics_text.cdd9df82c9864610eda90c6c8876c0b2.svg",
     "static/media/logo_header_mobile.svg": "/static/media/logo_header_mobile.d3573c3656576eedc9470f1447658911.svg",
@@ -23,7 +21,6 @@
     "static/media/stars.svg": "/static/media/stars.ad7583746b067c774e6ab7927eb53f5c.svg",
     "static/media/helptip.svg": "/static/media/helptip.62c42550c940843b5d68458acc14b9a3.svg",
     "static/media/telegram.svg": "/static/media/telegram.13de47dbaca3897ce2c0d11a1325478f.svg",
-    "static/media/plusIcon.svg": "/static/media/plusIcon.ee0f258e7e973a4e858cd45d6eaec758.svg",
     "static/media/leave.svg": "/static/media/leave.b23a74d9ab10fa3e07d0436b76253df2.svg",
     "static/media/outgoingLink.svg": "/static/media/outgoingLink.708671f79303a94a13c5c52b0509ac61.svg",
     "static/media/xIcon.svg": "/static/media/xIcon.7e7cbb905e15d59046eb6af1ba6d7df9.svg",
@@ -35,7 +32,7 @@
     "static/media/switch.svg": "/static/media/switch.07af378503e9414f52531115d2f39f73.svg"
   },
   "entrypoints": [
-    "static/css/main.dce2c9b3.css",
-    "static/js/main.e5865d8a.js"
+    "static/css/main.484363a4.css",
+    "static/js/main.657f31de.js"
   ]
 }
