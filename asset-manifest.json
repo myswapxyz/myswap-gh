@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9d47e94.css",
-    "main.js": "/static/js/main.16870f8c.js",
+    "main.css": "/static/css/main.b705ec03.css",
+    "main.js": "/static/js/main.64c14e74.js",
     "static/media/bg-mobile-new.png": "/static/media/bg-mobile-new.8ef69a86aa9f0c12a1aa.png",
     "static/media/bg_dark.png": "/static/media/bg_dark.f921cfc091440b863954.png",
+    "static/media/youtube_play.svg": "/static/media/youtube_play.f80a3906ebe9a5ba1bdcccc99f4098c2.svg",
     "static/media/bg_mobile_new.png": "/static/media/bg_mobile_new.c8c3963f6f75b46310f9.png",
     "static/media/promotionPopup.svg": "/static/media/promotionPopup.91a263b9f5ab2ae952338bf1cbc24b83.svg",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.1a8634c4ec899e7f050c65a170ec9e79.svg",
@@ -38,7 +39,7 @@
     "static/media/circle.svg": "/static/media/circle.3fb766c5a28e0025d851796fc3fafe03.svg"
   },
   "entrypoints": [
-    "static/css/main.c9d47e94.css",
-    "static/js/main.16870f8c.js"
+    "static/css/main.b705ec03.css",
+    "static/js/main.64c14e74.js"
   ]
 }
