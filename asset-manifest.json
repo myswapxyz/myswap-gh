@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ac576d4.css",
-    "main.js": "/static/js/main.f8b899cc.js",
+    "main.css": "/static/css/main.a02b8184.css",
+    "main.js": "/static/js/main.8a5ba632.js",
     "static/media/bg-mobile-new.png": "/static/media/bg-mobile-new.8ef69a86aa9f0c12a1aa.png",
     "static/media/bg_dark.png": "/static/media/bg_dark.f921cfc091440b863954.png",
     "static/media/youtube_play.svg": "/static/media/youtube_play.f80a3906ebe9a5ba1bdcccc99f4098c2.svg",
@@ -13,12 +13,16 @@
     "static/media/logo_desktop.svg": "/static/media/logo_desktop.2afccbcc1b476e7fe722458981fd5ea9.svg",
     "static/media/setting.svg": "/static/media/setting.f4d42faaccbbdab800d9c2653959747f.svg",
     "static/media/starknetLogo.svg": "/static/media/starknetLogo.964cb9177600c81128cdb67a2204c19f.svg",
+    "static/media/create-pool.svg": "/static/media/create-pool.32885b14fc9bcdb7188faa6144caeb97.svg",
     "static/media/space_ship.svg": "/static/media/space_ship.8b798afae4a64740d6a7a4cd0234e28c.svg",
     "static/media/BraavosLogo.svg": "/static/media/BraavosLogo.df1c225bddd7ec5d8fb0f8faacb4ced1.svg",
+    "static/media/zoom_in.svg": "/static/media/zoom_in.f3ad497f9dd3d63db876a345e9b83463.svg",
     "index.html": "/index.html",
     "static/media/unknownIcon.svg": "/static/media/unknownIcon.352e0c73bdbbb5af5a10cb28a0765216.svg",
+    "static/media/zoom_out.svg": "/static/media/zoom_out.7294e3192ea1d5e878263c6c052ae66a.svg",
     "static/media/accept.svg": "/static/media/accept.0a59c961f13e3d11dc07ef10dac90313.svg",
     "static/media/search_icon.svg": "/static/media/search_icon.dec6a24bccb13a07c5600f683eee58c4.svg",
+    "static/media/unknown_token.svg": "/static/media/unknown_token.a5662846cd9bb9e0b66937384c7ef10f.svg",
     "static/media/pending.svg": "/static/media/pending.6c8918f4457c702585bb466a1e8d76b2.svg",
     "static/media/discord.svg": "/static/media/discord.65d009484ef84d8910d6c19883734389.svg",
     "static/media/stars.svg": "/static/media/stars.ad7583746b067c774e6ab7927eb53f5c.svg",
@@ -45,7 +49,7 @@
     "static/media/circle.svg": "/static/media/circle.3fb766c5a28e0025d851796fc3fafe03.svg"
   },
   "entrypoints": [
-    "static/css/main.7ac576d4.css",
-    "static/js/main.f8b899cc.js"
+    "static/css/main.a02b8184.css",
+    "static/js/main.8a5ba632.js"
   ]
 }
