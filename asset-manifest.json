@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.526a88c1.css",
-    "main.js": "/static/js/main.7748bbc0.js",
+    "main.css": "/static/css/main.243775ef.css",
+    "main.js": "/static/js/main.efea79a1.js",
     "static/media/bg-mobile-new.png": "/static/media/bg-mobile-new.8ef69a86aa9f0c12a1aa.png",
     "static/media/bg_dark.png": "/static/media/bg_dark.f921cfc091440b863954.png",
     "static/media/youtube_play.svg": "/static/media/youtube_play.f80a3906ebe9a5ba1bdcccc99f4098c2.svg",
@@ -9,18 +9,23 @@
     "static/media/promotionPopup.svg": "/static/media/promotionPopup.91a263b9f5ab2ae952338bf1cbc24b83.svg",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.1a8634c4ec899e7f050c65a170ec9e79.svg",
     "static/media/failedIcon.svg": "/static/media/failedIcon.9eb5311d12149553037f955eacb82174.svg",
+    "static/media/medal.svg": "/static/media/medal.aa9bb757a8e24d211be1bbfc875dc32d.svg",
     "static/media/analytics_text.svg": "/static/media/analytics_text.cdd9df82c9864610eda90c6c8876c0b2.svg",
     "static/media/logo_desktop.svg": "/static/media/logo_desktop.2afccbcc1b476e7fe722458981fd5ea9.svg",
     "static/media/setting.svg": "/static/media/setting.f4d42faaccbbdab800d9c2653959747f.svg",
     "static/media/starknetLogo.svg": "/static/media/starknetLogo.964cb9177600c81128cdb67a2204c19f.svg",
     "static/media/create-pool.svg": "/static/media/create-pool.32885b14fc9bcdb7188faa6144caeb97.svg",
     "static/media/space_ship.svg": "/static/media/space_ship.8b798afae4a64740d6a7a4cd0234e28c.svg",
+    "static/media/third_place.svg": "/static/media/third_place.76c75a1bc3e411849d57b6287f9e0356.svg",
+    "static/media/second_place.svg": "/static/media/second_place.f0b3b96440e4e189e939b0beb0dbcbe2.svg",
     "static/media/BraavosLogo.svg": "/static/media/BraavosLogo.df1c225bddd7ec5d8fb0f8faacb4ced1.svg",
     "static/media/zoom_in.svg": "/static/media/zoom_in.f3ad497f9dd3d63db876a345e9b83463.svg",
     "index.html": "/index.html",
+    "static/media/braavos_logo_leaderboard.svg": "/static/media/braavos_logo_leaderboard.286c2b11ed4d61b088dd465393aa4a98.svg",
     "static/media/unknownIcon.svg": "/static/media/unknownIcon.352e0c73bdbbb5af5a10cb28a0765216.svg",
     "static/media/zoom_out.svg": "/static/media/zoom_out.7294e3192ea1d5e878263c6c052ae66a.svg",
     "static/media/accept.svg": "/static/media/accept.0a59c961f13e3d11dc07ef10dac90313.svg",
+    "static/media/first_place.svg": "/static/media/first_place.029c62bfa0462fa56979e7ff8ea3d4eb.svg",
     "static/media/search_icon.svg": "/static/media/search_icon.dec6a24bccb13a07c5600f683eee58c4.svg",
     "static/media/unknown_token.svg": "/static/media/unknown_token.a5662846cd9bb9e0b66937384c7ef10f.svg",
     "static/media/pending.svg": "/static/media/pending.6c8918f4457c702585bb466a1e8d76b2.svg",
@@ -45,11 +50,12 @@
     "static/media/arrow-right.svg": "/static/media/arrow-right.9c9c300a2aec917c96f11e566a2159e1.svg",
     "static/media/drag-slider.svg": "/static/media/drag-slider.1fcd4a7d256ae6e28b30459a22a658b3.svg",
     "static/media/success.svg": "/static/media/success.4b1dc6e83d2255a5e57fc286b3a86f11.svg",
+    "static/media/minus.svg": "/static/media/minus.c68da3817f40e440a7fa3b7855a4031e.svg",
     "static/media/green_dot.svg": "/static/media/green_dot.c267e9b2f5e2104cf3050d0224dc2f87.svg",
     "static/media/circle.svg": "/static/media/circle.3fb766c5a28e0025d851796fc3fafe03.svg"
   },
   "entrypoints": [
-    "static/css/main.526a88c1.css",
-    "static/js/main.7748bbc0.js"
+    "static/css/main.243775ef.css",
+    "static/js/main.efea79a1.js"
   ]
 }
