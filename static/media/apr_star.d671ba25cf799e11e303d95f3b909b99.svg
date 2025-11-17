@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="14" viewBox="0 0 13 14" fill="none">
+<circle cx="6.5" cy="7" r="6.5" fill="url(#paint0_diamond_5240_13722)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.78849 11.2675L7.51972 9.00807C7.6686 8.54852 8.03121 8.19094 8.49246 8.04993L10.7627 7.35172C11.0769 7.25572 11.0795 6.81234 10.7679 6.71127L8.50746 5.97991C8.04884 5.83129 7.69147 5.46857 7.54972 5.00734L6.85224 2.7369C6.75624 2.42346 6.31299 2.42005 6.21175 2.73263L5.48051 4.99207C5.33201 5.45072 4.96939 5.80834 4.50815 5.95021L2.23757 6.64755C1.92332 6.74438 1.91995 7.18694 2.23269 7.28801L4.49278 8.01933C4.95139 8.16799 5.30914 8.53153 5.45089 8.99276L6.148 11.2624C6.244 11.5766 6.68762 11.5801 6.78849 11.2675Z" fill="#FAFAFA"/>
+<defs>
+<radialGradient id="paint0_diamond_5240_13722" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(6 6.25) rotate(115.463) scale(17.4446)">
+<stop offset="0.005" stop-color="#D09201"/>
+<stop offset="0.535" stop-color="#F6D110"/>
+<stop offset="1" stop-color="#D09201"/>
+</radialGradient>
+</defs>
+</svg>
